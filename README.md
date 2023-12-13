@@ -1,0 +1,1 @@
+This is a Blog Generation bot. In this project we are using llama 2 model. This is a simple Blog Generation bot.
